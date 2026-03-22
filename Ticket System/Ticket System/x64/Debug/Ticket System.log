@@ -1,0 +1,4 @@
+﻿  Ticket System.cpp
+C:\Users\ASUS\source\repos\Ticket System\Ticket System\Ticket System.cpp(620,14): warning C4101: 'validInput': unreferenced local variable
+C:\Users\ASUS\source\repos\Ticket System\Ticket System\Ticket System.cpp(702,1): warning C4715: 'proceedToPayment': not all control paths return a value
+  Ticket System.vcxproj -> C:\Users\ASUS\source\repos\Ticket System\x64\Debug\Ticket System.exe
