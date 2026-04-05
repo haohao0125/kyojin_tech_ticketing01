@@ -22,7 +22,7 @@ int seat[sizeRow][sizeCol];
 double ticketPrice[sizeRow];
 bool successlogin = false;
 vector<string> showDateData;
-string showDate , loginRole;
+string showDate, loginRole;
 
 
 void printRed(const string& text) {
